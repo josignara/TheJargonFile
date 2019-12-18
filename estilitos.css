@@ -1,0 +1,66 @@
+body
+
+{
+    background-color: #C6E0EC;
+}
+
+h1.tj
+
+{
+    text-decoration-line: underline;
+    text-align: center;
+    font-size: 300%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2
+
+{
+    text-align: left;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    background-color: #4099BF;
+}
+
+p
+{
+    font-size: 110%;
+}
+pre
+
+{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3
+
+{
+    text-align: left;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: solid;
+    background-color: #79B8D2;
+    color: white;
+
+}
+
+pre.codigo
+
+{ 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    font-style: unset;
+    font-weight: bold;
+    
+}
+
+pre.fo
+
+{
+    text-align: right;
+    font-style: unset;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
